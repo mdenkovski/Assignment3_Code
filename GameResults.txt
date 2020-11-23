@@ -1,0 +1,42 @@
+Game ID: 4 started at 2020-11-22 22:52:40.674913
+Player 1 ID: 1008 connected to server at 2020-11-23 02:57:27.878742
+Player 2 ID: 1001 connected to server at 2020-11-23 02:57:28.880068
+Player 3 ID: 1002 connected to server at 2020-11-23 03:52:40.566956
+Player 1 Rating Level Prior to game: 142
+Player 2 Rating Level Prior to game: 240
+Player 3 Rating Level Prior to game: 105
+Player 3 Won the Game
+Player 1 Rating Level after the game: 124
+Player 2 Rating Level after the game: 218
+Player 3 Rating Level after the game: 125
+
+
+
+Game ID: 5 started at 2020-11-22 22:52:46.570105
+Player 1 ID: 1004 connected to server at 2020-11-23 03:52:41.570580
+Player 2 ID: 1003 connected to server at 2020-11-23 03:52:42.573337
+Player 3 ID: 1009 connected to server at 2020-11-23 03:52:43.576277
+Player 1 Rating Level Prior to game: 84
+Player 2 Rating Level Prior to game: 77
+Player 3 Rating Level Prior to game: 107
+Player 3 Won the Game
+Player 1 Rating Level after the game: 69
+Player 2 Rating Level after the game: 62
+Player 3 Rating Level after the game: 122
+
+
+
+Game ID: 6 started at 2020-11-22 22:52:49.092095
+Player 1 ID: 1004 connected to server at 2020-11-23 03:52:44.578045
+Player 2 ID: 1007 connected to server at 2020-11-23 03:52:45.580036
+Player 3 ID: 1003 connected to server at 2020-11-23 03:52:46.583038
+Player 1 Rating Level Prior to game: 69
+Player 2 Rating Level Prior to game: 100
+Player 3 Rating Level Prior to game: 62
+Player 2 Won the Game
+Player 1 Rating Level after the game: 54
+Player 2 Rating Level after the game: 114
+Player 3 Rating Level after the game: 48
+
+
+
